@@ -1,0 +1,42 @@
+.logo{
+    height: 70px;
+}
+.franchise{
+    border-radius: 500px;
+    background-color: black;
+    color: white;
+    border-color: 10px solid white;
+}
+.nav-text{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-decoration: none;
+    
+}    
+.order-btn{
+    background-color: red;
+    border-radius: 100px;
+
+   }
+ 
+.img-1{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.order-btn{
+    background-color: black;
+    color: white;
+     border-radius: 50px; 
+    border: 2px solid white;
+    margin-top: 30px;
+     text-align: center;
+    padding-top: 15px ;
+     padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 15px;  
+    text-align: center;
+
+}
