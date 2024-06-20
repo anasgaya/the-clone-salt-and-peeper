@@ -5,7 +5,7 @@
     border-radius: 500px;
     background-color: black;
     color: white;
-    border-color: 10px solid white;
+    border: 1px solid white;
 }
 .nav-text{
     color: white;
@@ -14,30 +14,16 @@
     text-decoration: none;
     
 }    
-.order-btn{
+.order-btn0{
     background-color: red;
     border-radius: 100px;
-
    }
  
-.img-1{
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-}
 .order-btn{
     background-color: black;
     color: white;
-     border-radius: 50px; 
-    border: 2px solid white;
+    border-radius: 30px; 
+    border: 1px solid white;
     margin-top: 30px;
-     text-align: center;
-    padding-top: 15px ;
-     padding-left: 55px;
-    padding-right: 55px;
-    padding-bottom: 15px;  
-    text-align: center;
-    margin-left:40px;
-
+    padding: 20px 50px 20px 50px ;
 }

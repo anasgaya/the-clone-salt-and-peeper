@@ -35,7 +35,7 @@ html{
 .item-centre{
     align-items: center;
 }
-.flex-colum{
+.flex-column{
     flex-direction: column;
 }
 .gap-5{
@@ -144,4 +144,10 @@ html{
 }
 .colour{
     background-color: #ffffff;
+}
+.snp{
+    font-size: 4rem;
+}
+.line{
+    line-height: 1;
 }
