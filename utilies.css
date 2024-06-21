@@ -168,3 +168,11 @@ html{
 .img-width{
     width: 300px;
 }
+.box{
+    /* background-color: white; */
+    width: 150px;
+    height: 40px;
+}
+.black{
+    color: #000;
+}
