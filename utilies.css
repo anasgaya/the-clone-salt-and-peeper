@@ -74,13 +74,18 @@ html{
 .mt5{
     margin-top: 25px;
 }
-
+.mt6{
+    margin-top: 40px;
+}
 .mx1{
     margin: 0px 5px;
 }
 
 .my-{
     margin: 5px 0px;
+}
+.m-b{
+    margin-bottom: 15px;
 }
 /* margin classes ended */
 
@@ -150,4 +155,16 @@ html{
 }
 .line{
     line-height: 1;
+}
+.r-f{
+    font-size: 3rem;
+}
+.para{
+    font-size: 2rem;
+}
+.p-r{
+    padding-right: 50px;
+}
+.img-width{
+    width: 300px;
 }
